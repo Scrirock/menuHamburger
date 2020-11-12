@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    width: 100%;
+}
+
+div{
+    width: 50rem;
+}
+
+.pain{
+    background-color: #d39b59;
+    height: 15rem;
+}
+
+.sauce{
+    background-color: red;
+    height: 1rem;
+}
+
+.salade{
+    background-color: green;
+    height: 2rem;
+}
+
+.fromage{
+    background-color: yellow;
+    height: 3rem;
+}
+
+.viande{
+    background-color: #7a3d27;
+    height: 9rem;
+}
